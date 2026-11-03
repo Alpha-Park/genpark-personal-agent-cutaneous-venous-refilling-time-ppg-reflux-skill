@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-cutaneous-venous-refilling-time-ppg-reflux-skill",
+  "version": "1.0.0",
+  "description": "Calculates Digital Photoplethysmography (D-PPG) Venous Refilling Time (VRT), Venous Pump Power (VPP), and CEAP chronic venous insufficiency staging for personal vascular and lower-limb wellness.",
+  "author": "AlphaPark",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "ai-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "zero-dependency",
+    "wellness",
+    "productivity",
+    "production-ready"
+  ],
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py"
+}
